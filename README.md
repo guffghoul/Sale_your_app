@@ -9,3 +9,5 @@ A new Flutter project.
  - Setup VS Code help us code faster [here](https://flutter.dev/docs/get-started/editor?tab=vscode)
 
 => Sau khi setup vao chay project thu co loi khong
+
+HAIDQ5
